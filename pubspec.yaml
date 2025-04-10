@@ -20,9 +20,10 @@ flutter:
   uses-material-design: true
 
   assets:
-    - assets/Asahi.jpg
-    - assets/Haruto.jpg
-    - assets/Hyunsuk.jpg
-    - assets/Junghan.jpg
-    - assets/junkyu.jpg
-    - assets/Yoshi.jpg
+
+    - assets/Haruto.png
+    - assets/hyunsuk.png
+    - assets/jungwan.png
+    - assets/junkyu.png
+    - assets/Yoshi.png
+

@@ -1,0 +1,1 @@
+ndk.dir=C:\\Users\\rutha\\AppData\\Local\\Android\\sdk\\ndk\\26.1.10909125
